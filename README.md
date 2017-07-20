@@ -17,8 +17,8 @@ Ana Marasovic, Leo Born, Juri Opitz, and Anette Frank (2017): [A Mention-Ranking
 
 ## Instructions
 
-- use `main.py`, `train.py`, `models.biLSTM_SiameseMR.py`: to train the model for shell noun or abstract anaphora resolution 
-- use `main_tuner.py`, `train_tuner.py`, `models.biLSTM_SiameseMR.py`: to tune HPs
+- use `main.py`, `train.py`, `models.biLSTM_SiameseMR.py` to train the model for shell noun or abstract anaphora resolution 
+- use `main_tuner.py`, `train_tuner.py`, `models.biLSTM_SiameseMR.py` to tune HPs
 - use `eval.py` to get figures
 
 ## Data
