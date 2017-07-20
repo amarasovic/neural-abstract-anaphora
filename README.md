@@ -3,7 +3,14 @@ Resolution of anaphors that refer to propositions, facts, events or properties
 
 Ana Marasovic, Leo Born, Juri Opitz, and Anette Frank (2017): [A Mention-Ranking Model for Abstract Anaphora Resolution](https://arxiv.org/abs/1706.02256). In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP). Copenhagen, Denmark.
 
-<p style="text-align:center;"><img src="figs/mr_lstm.png" width="450" align="middle" alt="LSTM-Siamese mention-ranking model"></p>
+<style type="text/css">
+.centerImage
+{
+text-align:center;
+display:block;
+}
+</style>
+<img src="figs/mr_lstm.png" width="450" align="middle" alt="LSTM-Siamese mention-ranking model" class="centerImage">
 
 ## Requirements
 
