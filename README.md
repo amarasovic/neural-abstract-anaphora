@@ -27,7 +27,7 @@ Coming soon.
 
 ## Reference
 
-If you make use of the contents of this repository, we appreciate citing [the following paper](https://arxiv.org/abs/1706.02256):
+If you make use of the contents of this repository, please cite [the following paper](https://arxiv.org/abs/1706.02256):
 
 ```
 @inproceedings{marasovic2017aar,
