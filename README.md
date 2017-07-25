@@ -32,7 +32,7 @@ If you make use of the contents of this repository, please cite [the following p
 ```
 @inproceedings{marasovic2017aar,
   title={{A Mention-Ranking Model for Abstract Anaphora Resolution}},
-  author={Marasovic, Ana and Born, Leo and Opitz, Juri and Frank, Anette},
+  author={Marasovi\'{c}, Ana and Born, Leo and Opitz, Juri and Frank, Anette},
   booktitle={Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
   year={2017}
 }
