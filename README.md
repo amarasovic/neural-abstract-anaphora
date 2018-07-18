@@ -25,18 +25,20 @@ Ana Marasovic, Leo Born, Juri Opitz, and Anette Frank (2017): [A Mention-Ranking
 
 Check this [repo](https://github.com/amarasovic/abstract-anaphora-data).
 
-Test[^ignore].
-
 ## Reference
 
 If you make use of the contents of this repository, please cite [the following paper](https://arxiv.org/abs/1706.02256):
 
 ```
-@inproceedings{marasovic2017aar,
-  title={{A Mention-Ranking Model for Abstract Anaphora Resolution}},
-  author={Marasovi\'{c}, Ana and Born, Leo and Opitz, Juri and Frank, Anette},
-  booktitle={Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year={2017}
-}
+@InProceedings{D17-1021,
+   author={Marasovi\'{c}, Ana and Born, Leo and Opitz, Juri and Frank, Anette},
+   title = "A Mention-Ranking Model for Abstract Anaphora Resolution",
+   booktitle = "Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+   year = "2017",
+   publisher = "Association for Computational Linguistics",
+   pages = "221--232",
+   location =  "Copenhagen, Denmark",
+   url = "http://aclweb.org/anthology/D17-1021"
+  }
 ```
 
